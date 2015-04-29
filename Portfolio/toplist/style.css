@@ -1,0 +1,47 @@
+.app {
+
+	display: flex;
+	display: -webkit-flex;
+    display: -webkit-box-sizing: border-box;
+    
+} 
+
+.image {
+	margin-left: 100px;
+	max-width: 400px;
+	margin-right: 20px;
+	
+}
+
+.description {
+	
+	
+	max-width: 600px;
+	text-align: center;
+	font-size: 16px;
+	font-family: fantasy;
+
+}
+
+.title {
+	background-color: #33BEBE;
+	color: white;
+	margin-left: 100px;
+	font-family: sans-serif;
+	font-size: 24px;
+	height: 70px;
+	margin-bottom: 20px;
+
+
+}
+
+*{
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+
+	background-color: 33BEBE;
+
+}
