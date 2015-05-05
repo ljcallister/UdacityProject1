@@ -27,24 +27,20 @@ h3 {
 }
 
 p {
-	
-	font-color: white;
-	padding: 8px;
+	margin: 10px;
 	z-index: 1;
-
-	
 }
-
 .image{
 	position: absolute;
 	z-index: -2;
-	padding: 5px;
+	
 }
 .container {
 	height:400px;
     width:400px;
     position:relative;
     background-image: ;
+
 }
 
 
